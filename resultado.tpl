@@ -8,8 +8,7 @@
     <p><h2>SIGUE LA HUELLA EN  TWITTER</h2></p>
     <p><img src="http://www.esferaiphone.com/uploads/twitter-logo.png" width="200" height="200"/></p>
     <h3>Resultado de la busqueda</h3>      
-    <p> 
-      <br/>
+    <p>
       <br/>Palabra buscada : {{rastreando}}
     <br/>
     <br/>Tweets: {{texto}}
@@ -17,8 +16,9 @@
     <br/>
     <br/>Autor: {{autor}}
     <p><img src="{{imagen}}"/></p>
-    <br/>
     </p>
     <h4>Muchas gracias por utilizar nuestro servicio</h4>
+    <p> <a href="/">Realizar otro rastreo</a></p>
   </body>
 </html>
+
